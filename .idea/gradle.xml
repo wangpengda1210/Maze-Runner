@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Maze Runner/task" />
+            <option value="$PROJECT_DIR$/Problems/Backward indexes" />
+            <option value="$PROJECT_DIR$/Problems/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Problems/Companies" />
+            <option value="$PROJECT_DIR$/Problems/Count the value occurrences" />
+            <option value="$PROJECT_DIR$/Problems/Creating queue" />
+            <option value="$PROJECT_DIR$/Problems/Even numbers go first" />
+            <option value="$PROJECT_DIR$/Problems/Filtering the list" />
+            <option value="$PROJECT_DIR$/Problems/Getting the max element of a stack" />
+            <option value="$PROJECT_DIR$/Problems/Greedy load balance" />
+            <option value="$PROJECT_DIR$/Problems/Greek letters" />
+            <option value="$PROJECT_DIR$/Problems/Split a list into sublists" />
+            <option value="$PROJECT_DIR$/Problems/The LIFO principle in action" />
+            <option value="$PROJECT_DIR$/Problems/The count of numbers divisible by N" />
+            <option value="$PROJECT_DIR$/Problems/The longest string in the list" />
+            <option value="$PROJECT_DIR$/Problems/Which brackets are balanced" />
+            <option value="$PROJECT_DIR$/Problems/Working with queue" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
